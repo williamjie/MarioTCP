@@ -1,7 +1,7 @@
 # MarioTCP
 
-
-
+### ubuntu 安装libevent
+apt-get install libevent-dev
 
 MarioTCP:一个单机可百万并发长连接服务器
 2015年01月03日 00:15:47
